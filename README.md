@@ -1,5 +1,5 @@
 # modifier-of-captivity
-a simple modifier of capitivity,created by qqwq112112 using ai.
+a simple modifier of captivity,created by qqwq112112 using ai.
 # Captivity 修改器
 notice:
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
