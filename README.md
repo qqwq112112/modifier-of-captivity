@@ -1,7 +1,10 @@
 # modifier-of-captivity
 a simple modifier of capitivity,created by qqwq112112 using ai.
 # Captivity 修改器
-
+notice:
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+thereare three languages here.but i only wrote the read.md in chinese.My apologies.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 适用于 Unity/Mono 引擎游戏 **Captivity v1.0.5b**。
 
 ## 使用方法
